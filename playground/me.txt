@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shubham Patel
+Skills: Manual Testing, Agile, Jira, SQL, Github
+Email: shubhampatel262626@gmail.com
+{{/user}}
